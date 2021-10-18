@@ -5,6 +5,7 @@ import Shop_31 from './pages/Shop_31';
 function App_31() {
   return (
     <div>
+      <Homepage_31 />
       <Shop_31 />
     </div>
   );
