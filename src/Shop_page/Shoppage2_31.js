@@ -3,7 +3,7 @@ import './Shoppage_31.scss';
 import CollectionItem_31 from './CollectionItem_31';
 import items from './hats_data';
 
-const Shoppage_31 = () => {
+const Shoppage2_31 = () => {
   const [menuItems, setCollectionItems] = useState(items);
   console.log('menuItems', menuItems);
   return (
@@ -28,4 +28,4 @@ const Shoppage_31 = () => {
   );
 };
 
-export default Shoppage_31;
+export default Shoppage2_31;
